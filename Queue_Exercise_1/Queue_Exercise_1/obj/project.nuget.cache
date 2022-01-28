@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+C8s3VKUI9lXuznw2QlqmIkpjozsIzErnDb1/4j2JlHtk2NXFFdHEI1FRLIfafgxilULoPdNOPwkFKGdEAHm5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\OneDrive\\Desktop\\Visual Studio Projects\\Data Structures and Algorithm (C#)\\Queue_Exercise_1\\Queue_Exercise_1\\Queue_Exercise_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

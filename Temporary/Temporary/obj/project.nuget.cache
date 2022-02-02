@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i7sWvv79DIQMSdUi+wXbEX7FAMrHQts0fWxkyJumHW+jy5DOVnngVHUNLrcZwnG5mojzBoEY42Wdmb2YSMLJjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\OneDrive\\Desktop\\Visual Studio Projects\\Data Structures and Algorithm (C#)\\Temporary\\Temporary\\Temporary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

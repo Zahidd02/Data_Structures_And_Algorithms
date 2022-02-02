@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pnmrl4VFG9tUQKTpHMde6g6FiO/P7iX3Srg78QkovNiJ8K2MjHUDZS//AvSJrxVlhAcoyXAdbE3jeITT22Qsvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\OneDrive\\Desktop\\Visual Studio Projects\\Data Structures and Algorithm (C#)\\Set_Interface_Exercise_1\\Set_Interface_Exercise_1\\Set_Interface_Exercise_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

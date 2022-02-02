@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9MShTGaFyeGsXhN9lipwd6YNThJ35yhZs1Lvb457jxkmU/1IAgCJJgpLpfmIXI3ku6ROkltI/SYl+DeOqypUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\OneDrive\\Desktop\\Visual Studio Projects\\Data Structures and Algorithm (C#)\\LinkedList_Exercise_1\\LinkedList_Exercise_1\\LinkedList_Exercise_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

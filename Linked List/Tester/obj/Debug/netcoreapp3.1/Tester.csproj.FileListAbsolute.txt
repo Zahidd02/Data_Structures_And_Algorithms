@@ -1,0 +1,14 @@
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\bin\Debug\netcoreapp3.1\Tester.exe
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\bin\Debug\netcoreapp3.1\Tester.deps.json
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\bin\Debug\netcoreapp3.1\Tester.runtimeconfig.json
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\bin\Debug\netcoreapp3.1\Tester.runtimeconfig.dev.json
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\bin\Debug\netcoreapp3.1\Tester.dll
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\bin\Debug\netcoreapp3.1\Tester.pdb
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\obj\Debug\netcoreapp3.1\Tester.csproj.AssemblyReference.cache
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\obj\Debug\netcoreapp3.1\Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\obj\Debug\netcoreapp3.1\Tester.AssemblyInfoInputs.cache
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\obj\Debug\netcoreapp3.1\Tester.AssemblyInfo.cs
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\obj\Debug\netcoreapp3.1\Tester.csproj.CoreCompileInputs.cache
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\obj\Debug\netcoreapp3.1\Tester.dll
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\obj\Debug\netcoreapp3.1\Tester.pdb
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Linked List\Tester\obj\Debug\netcoreapp3.1\Tester.genruntimeconfig.cache

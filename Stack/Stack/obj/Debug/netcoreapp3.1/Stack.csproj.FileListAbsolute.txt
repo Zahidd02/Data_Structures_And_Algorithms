@@ -1,0 +1,13 @@
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\zahid\OneDrive\Desktop\Visual Studio Projects\Data Structures and Algorithm (C#)\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjxQGR/Oi/tqiFdwcbaWr9RgERaAYQszLZnTV6wocQHpdsplKGg6WIzNWaCBkXGvLO19uUULi2Wv2wLL/NiHNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid\\OneDrive\\Desktop\\Visual Studio Projects\\Data Structures and Algorithm (C#)\\Stack\\Stack\\Stack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
